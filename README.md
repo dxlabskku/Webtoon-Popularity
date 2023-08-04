@@ -6,7 +6,7 @@ Webtoon, a digital version of a cartoon, has become a prominent cultural phenome
 
 
 ## Overview of our framework
-<img alt="multimodal" src="https://github.com/dxlabskku/webtoom_popularity/assets/43632309/e1e9442c-42af-4207-9341-3d5a21daaece">
+<img alt="multimodal" src="https://github.com/dxlabskku/webtoom_popularity/assets/43632309/e1e9442c-42af-4207-9341-3d5a21daaece" width="480" height="298">
 <strong>Figure 1 : Proposed model</strong>
 <br>
 
