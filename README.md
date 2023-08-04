@@ -1,4 +1,4 @@
-# iMovieRec: a hybrid movie recommendation method based on user-image-item model
+# Popularity prediction of Webtoon by multi-modal classification for commercial profit
 This repository is to supplement the paper "Popularity prediction of Webtoon by multi-modal classification for commercial profit".
 
 ## Abstract
