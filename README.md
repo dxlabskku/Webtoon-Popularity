@@ -16,6 +16,9 @@ Webtoon, a digital version of a cartoon, has become a prominent cultural phenome
 ## Dataset
 We constructed webtoon dataset collected from two major webtoon platforms in South Korea, Naver Webtoon and Kakao Webtoon. The dataset contains the title, story(synopsis), and thumbnail of each webtoon. The webtoon dataset includes titles, story(synopses), and thumbnail images for 4,770 launched webtoons and 11,931 challenge webtoons.
 
+## Model
+We proposed an early fusion multimodal model using image and text features. The image model is a Convolutional neural network(CNN) based on VGG16 scratch. And text model is a Long Short Term Memory(LSTM) by Ko-Sentence-Transformer embedding vector.  
+
 
 ## Reference
 TBD
